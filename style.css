@@ -13,13 +13,19 @@ body {
     font-size: 20px;
 
 }
+
+.h-logo {
+    margin-top: 15px;
+}
+
+
 .ul-header {
     display: flex;
     margin-left: auto;
     justify-content: space-between;
     gap: 20px;
     list-style-type: none;
-    color:lightgrey;
+    color:rgba(211, 211, 211, 0.803);
     font-weight: 400;
     font-size: 16px;
 }
@@ -28,4 +34,8 @@ body {
 .hero {
   background-color: #1f2937;
     
+}
+
+.top {
+    padding: 40px; 
 }
