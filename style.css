@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-flow: column;
+    margin: 0px;
+    color: white;
+    font-family: 'Roboto', sans-serif;}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+    margin: 0px 100px;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+.ul-header {
+    display: flex;
+    margin-left: auto;
+    justify-content: space-between;
+    gap: 20px;
+    list-style-type: none;
+    color:lightgrey;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.hero {
+  background-color: #1f2937;
+    
+}
