@@ -62,7 +62,7 @@ button {
 .top {
     padding: 80px; 
     display: flex;
-    justify-content: space-between;
+    
 }
 
 .top-left {
@@ -109,16 +109,24 @@ padding: 0px 400px 200px 400px;
 }
 
 .pop-up {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     background-color: #3883F6;
     border-radius: 4px;
-    margin: 200px 100px;
-    padding: 50px 300px;
-    
+    width: 1100px;
+    height: 150px;
+    margin: 100px;
 }
+
 
 #pop-up-button {
     border-color: white;
     border-style: solid;
+    padding: 5px 30px;
+    border-width: 2px;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .footer {
