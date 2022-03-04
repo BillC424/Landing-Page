@@ -14,8 +14,8 @@ body {
         border-radius: 25px;}
         
 #alien {  
-        max-width: 50%;  
-        height: auto;  
+        width: 650px;  
+        height: 300px;  
         }  
 
 button {
@@ -60,6 +60,11 @@ button {
     padding: 80px; 
     display: flex;
     
+}
+
+.top-left {
+    padding-left: 20px;
+    padding-right: 400px;
 }
 
 
