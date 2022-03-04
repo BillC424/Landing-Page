@@ -6,8 +6,8 @@ body {
     font-family: 'Roboto', sans-serif;}
 
 
-    .card-image {width:20%;
-        height:auto;
+    .card-image {width:200px;
+        height:200px;
         object-fit: fill;
         border: 4px solid rgb(0, 115, 255); 
         margin: 0px 10px;
